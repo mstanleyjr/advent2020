@@ -8,6 +8,8 @@ authors = ["mstanley <mstanley@zipcar.com>"]
 python = "3.8.6"
 requests = "^2.25.0"
 python-dotenv = "^0.15.0"
+numpy = "1.18.0"
+pandas = "^1.1.4"
 
 [tool.poetry.dev-dependencies]
 
